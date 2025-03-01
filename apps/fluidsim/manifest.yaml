@@ -1,0 +1,8 @@
+---
+id: fluidsim
+name: Fluid Sim
+summary: Does a fluid simulation
+desc: Fluid Sim.
+author: alxsz12
+fileName: fluid.star
+packageName: fluidsim
